@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T12:34:03Z" name="Default suite" finished-at="2021-08-11T12:34:03Z" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T12:34:03Z" name="Default test" finished-at="2021-08-11T12:34:03Z" duration-ms="25">
+      <class name="testngsessions.TestNgBAsics">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testngsessions.TestNgBAsics@ae13544]" started-at="2021-08-11T12:34:03Z" name="beforeSuite" finished-at="2021-08-11T12:34:03Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforTest()[pri:0, instance:testngsessions.TestNgBAsics@ae13544]" started-at="2021-08-11T12:34:03Z" name="beforTest" finished-at="2021-08-11T12:34:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method signature="test()[pri:0, instance:testngsessions.TestNgBAsics@ae13544]" started-at="2021-08-11T12:34:03Z" name="test" finished-at="2021-08-11T12:34:03Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testngsessions.TestNgBAsics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
